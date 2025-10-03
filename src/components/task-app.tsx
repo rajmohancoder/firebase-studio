@@ -102,7 +102,7 @@ export default function TaskApp() {
   return (
     <Card className="w-full max-w-2xl shadow-lg">
       <CardHeader>
-        <CardTitle className="text-3xl font-bold text-center text-primary font-headline">TaskTrack</CardTitle>
+        <CardTitle className="text-3xl font-bold text-center text-primary font-headline">To-Do Tasks</CardTitle>
         <CardDescription className="text-center">
           Your simple and focused to-do list.
         </CardDescription>
